@@ -28,18 +28,18 @@ const AccountModal: React.FC<ModalProps> = ({ isOpen, onClose, onSent }) => {
             <img src="/images/payoutIcon.svg" className="w-auto h-auto" />
           </div> */}
           <h2 className="text-xl font-semibold text-[#141517]">
-            Account Information
+            Account Deets
           </h2>
-          <p>Send the money here, make i see food chop</p>
+          <p>Epp me send am here abeg🙏. Thanks</p>
           <div className="mt-12 space-y-2 text-left">
             <p className="flex justify-between">
-              <span>Name:</span> <span>Ezekiel Jeremiah</span>
+              <span>Name:</span> <span>David Igbaro</span>
             </p>
             <p className="flex justify-between">
-              <span>Account Number:</span> <span>8127982163</span>
+              <span>Account Number:</span> <span>57432468</span>
             </p>
             <p className="flex justify-between">
-              <span>Bank Name:</span> <span>Opay</span>
+              <span>Sort Code:</span> <span>30-80-96</span>
             </p>
           </div>
           <button
