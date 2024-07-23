@@ -83,7 +83,7 @@ const AnimatedText = () => {
       />
 
       <p className="absolute bottom-4">
-        with ❤️ and sapa. {""}
+        with ❤️ from me 😊. {""}
         <a
           href="https://github.com/dtechoracle/send-funds"
           className="text-blue-300"
